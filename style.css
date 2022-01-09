@@ -1,0 +1,25 @@
+*{
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-family: 'Ubuntu', sans-serif
+    
+}
+body{
+    background-color: #2B3E50;
+}
+
+.mainBox{
+    border: 1px solid red;
+    border-radius: 15px;
+    background-color: #90ABC3;
+   
+    
+}
+
+.displayTimer{
+    width: 300px;
+    text-align: center;
+    height: 70px;
+    border-radius: 15px;
+}
